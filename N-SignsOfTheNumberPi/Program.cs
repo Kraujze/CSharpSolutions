@@ -1,5 +1,3 @@
-﻿using System.Globalization;
-
 namespace N_SignsOfTheNumberPi
 {
     public static class Program
